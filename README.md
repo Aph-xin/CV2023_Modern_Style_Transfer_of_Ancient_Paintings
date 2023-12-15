@@ -255,11 +255,7 @@ Iteration 5 / 1000
 
 ### Usage
 
-In the notebook `Modern_Style_Transfer_of_Ancient_Paintings.ipynb`
-
-
-
-Xxxxxx
+To use the Modern_Style_Transfer_of_Ancient_Paintings.ipynb notebook, you should make sure that the installation of segment anything module and style transfer module is well done (all the models needed have been downloaded). Than you need to change the paths in the Modern_Style_Transfer_of_Ancient_Paintings.ipynb notebook to make it correspond to the exact file and models.
 
 
 
