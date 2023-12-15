@@ -36,10 +36,6 @@ The challenge is to apply style transfer to select components of an image withou
 
 ### Dependencies
 
-## Setup:
-
-Dependencies:
-
 - [PyTorch](http://pytorch.org/)
 
 Optional dependencies:
